@@ -32,7 +32,7 @@ As per Udacity Data Scientist Nanodegree project to write a Data science blogpos
 
 This can can be modified to analyze other data sets other than singapore data.
 
-for more information refer to the blogpost for this project: https://github.com/rohan27hadvani/Udacity-Data-Science-Nanodegree/blob/master/1.%20Blog%20Post/Singapore%20Airbnb%20Blog%20Post.docx
+for more information refer to the blogpost for this project: http://www.rohanhadvani.com/looking-into-singapores-airbnb-listings/
 ## Analysis
 We have initially imported the data from the airbnb inside website. We then have cleaned the data and made it ready for use. Then we visualized the various questions posted at the top using various functions and libraries.
 
