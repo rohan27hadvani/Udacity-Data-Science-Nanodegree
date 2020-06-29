@@ -1,4 +1,5 @@
-# Write-a-Blogpost
+# Writing a Blogpost
+## Author:- Rohan Hadvani
 This repo contains the files for the udacity data scientist nanodegree's 1st project
 ## Project: Analyzing Singapore's AirBnB listings
 Airbnb, Inc. is an online marketplace for organizing or offering accommodation, primarily homestays, or tourism experiences. The company does not own any of the property listings, nor does it host events; it acts as a broker, receiving commissions from each booking. The business is based in San Francisco, California, USA.
@@ -15,7 +16,7 @@ In this project we are going to use the CRISP - DM( Cross Industry Process for D
 6. What are the basic amenities offered and is the price of the property associated with luxury amenities?
 
 ## Installations
-This project has been written in Pyhton 3 and it contains the following libraries:
+This project has been written in Pyhton 3 and it contains the following libraries: 
 
 1. Numpy
 2. Pandas
@@ -31,7 +32,7 @@ As per Udacity Data Scientist Nanodegree project to write a Data science blogpos
 
 This can can be modified to analyze other data sets other than singapore data.
 
-for more information refer to the blogpost for this project: https://medium.com/@shubham.malpani/looking-into-singapores-airbnb-listings-4d739c339291
+for more information refer to the blogpost for this project: https://github.com/rohan27hadvani/Udacity-Data-Science-Nanodegree/blob/master/1.%20Blog%20Post/Singapore%20Airbnb%20Blog%20Post.docx
 ## Analysis
 We have initially imported the data from the airbnb inside website. We then have cleaned the data and made it ready for use. Then we visualized the various questions posted at the top using various functions and libraries.
 
