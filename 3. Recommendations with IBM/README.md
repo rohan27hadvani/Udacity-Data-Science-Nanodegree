@@ -1,1 +1,2 @@
-# Udacity-recommendations-with-IBM
+# Udacity recommendations with IBM
+## Project By: Rohan Hadvani
