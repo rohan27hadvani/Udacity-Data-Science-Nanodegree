@@ -1,4 +1,5 @@
 # Udacity Data Science Nanodegree Starbucks Capstone Project
+## Project By: Rohan Hadvani
 ## Installation
 - Python versions 3.*.
 - Libraries used:
