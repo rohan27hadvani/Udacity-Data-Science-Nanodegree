@@ -1,10 +1,8 @@
 # IBM Recommendation System
-
+## Project By: Rohan Hadvani
 ## Project Motivation
 
 IBM has an online data science community where members can post tutorials, notebooks, articles, and datasets. In this project, you will build a recommendation engine based on user behavior and social network data, to surface content most likely to be relevant to a user.
-
-<img src="IBM.png">
 
 
 ### I. Exploratory Data Analysis
