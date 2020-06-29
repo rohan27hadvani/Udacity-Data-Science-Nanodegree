@@ -27,7 +27,7 @@ This project has been written in Pyhton 3 and it contains the following librarie
 ## Files
 Dataset listings.csv available for Singapore AirBnB listings will be used. Analyzing Singapore's AirBnB listings.ipynb is a Jupyter Notebook which contains code as well as is structured to understand the course of analysis.
 
-## Motivation
+## Results
 As per Udacity Data Scientist Nanodegree project to write a Data science blogpost using CRISP-DM. I was intriguted to analyze and find business related questions about airbnb listings for Singapore. This interest stem from being a frequent user of airbnb and a person who loves singapore as a city.
 
 This can can be modified to analyze other data sets other than singapore data.
